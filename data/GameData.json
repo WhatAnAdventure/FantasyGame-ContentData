@@ -1,0 +1,7 @@
+{
+    "modelManagerKey":"GAME_DATA",
+    "properties":{
+        "firstPage":"MainMenu",
+        "defaultTheme": "MetalWorks"
+    }
+}

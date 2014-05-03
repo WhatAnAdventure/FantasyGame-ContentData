@@ -1,0 +1,18 @@
+{
+    "json":[
+        "data/GameData.json",
+        "data/MainMenu.json"
+    ],
+
+    "bitmap":[
+
+    ],
+
+    "atlas":[
+
+    ],
+
+    "atf":[
+
+    ]
+}
